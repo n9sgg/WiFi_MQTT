@@ -1,0 +1,2 @@
+#define SECRET_SSID "CIA-TOPSECRET"
+#define SECRET_PASS "dfbn6bc7b487c7"
